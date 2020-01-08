@@ -1,4 +1,4 @@
-# Sample Project To Utilize Varios Modern Frontend Stack
+# Sample Project To Utilize Various Modern Frontend Stack
 -----
 ## The project uses the following:
 
