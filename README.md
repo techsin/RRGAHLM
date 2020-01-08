@@ -57,6 +57,12 @@
 - Flexbox
 - Grid
 - Smooth Scroll
+- overscroll-behavior
+
+## JS Features
+
+- Arrow Function
+- Destructuring
 
 ## Security Features
 
