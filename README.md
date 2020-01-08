@@ -6,6 +6,7 @@
 - React Router
 - React Hydration / Server Side Rendering
 - React CSS modules
+- React Persist
 - Redux
 - Redux thunk
 - Material UI React
@@ -22,22 +23,53 @@
 - Eslint
 - Vscode / tsconfig
 
-## Things in the pipeline:
+# TODO
 
-- Rabbitmq / distributed messaging
-- Memcache / Redis
-- Duplicated database
+## System Design / Devops
+
 - Sharding DB
 - Indexing DB
+- Replicating DB
 - Kubernetes
 - Docker
+- Rabbitmq / distributed messaging
+- Memcache / Redis
 - Concourse
-- Typescript
 - CI (Github actions / CircleCI?)
+
+## Backend
+- Typescript
 - API throttling
 - API JWT Authentication
 - RPC / gRPCs
 - Microservices
 - Nginx
+- SAML registration / authentication
+
+## Frontend
+
 - Service Workers / PWA
-- Web APIs (WebRtc, Geolocation, Web Auth, Blob, Typed Arrays, Audio)
+- Web APIs (WebRtc, Geolocation, Web Auth, Blob, Typed Arrays, Audio, Touch, Local Storage, Desktop Icon, TTS)
+
+
+## CSS Features
+
+- Flexbox
+- Grid
+- Smooth Scroll
+
+## Security Features
+
+- CSP
+- CORS
+- XSS
+- CSRF
+- HSTS
+- Cookie (Same site, HTTPS only / Secure, HttpOnly) 
+- Escape Input
+
+## Performance
+
+- Sprite sheet
+- HTTP2
+- Web workers
