@@ -29,13 +29,9 @@
 
 ## System Design / Devops
 
-- Sharding DB
-- Indexing DB
-- Replicating DB
 - Kubernetes
 - Docker
 - Rabbitmq / distributed messaging
-- Memcache / Redis
 - Concourse
 - CI (Github actions / CircleCI?)
 - S3
@@ -49,6 +45,7 @@
 - Microservices
 - Nginx
 - SAML registration / authentication
+- Webpack Cache Busting
 
 ## Frontend
 
@@ -85,4 +82,10 @@
 - Web workers
 - Lazy Fetching
 - Async / Defer
-
+- Progressive Image Loading
+- CDN
+- Caching Headers
+- Sharding DB
+- Indexing DB
+- Replicating DB
+- Memcache / Redis
