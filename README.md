@@ -11,6 +11,29 @@
 - Material UI React
 - Graphql / Apollo
 - Nodejs
-- Postgresql
+- Postgres
 - TDD (Jest)
 - Webpack Manually configured
+- Authentication
+- User Registration
+- Forget Password
+- Admin Privilieges 
+- Babel
+- Eslint
+- Vscode / tsconfig
+
+## Things in the pipeline:
+
+- Rabbitmq / distributed messaging
+- Memcach / Redis
+- Duplicated database
+- Sharding DB
+- Indexing DB
+- Kubernetes
+- Docker
+- Concourse
+- Typescript
+- CI (Github actions / CircleCI?)
+- API throttling
+- API JWT Authentication
+
