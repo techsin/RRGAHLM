@@ -25,7 +25,7 @@
 ## Things in the pipeline:
 
 - Rabbitmq / distributed messaging
-- Memcach / Redis
+- Memcache / Redis
 - Duplicated database
 - Sharding DB
 - Indexing DB
@@ -36,4 +36,7 @@
 - CI (Github actions / CircleCI?)
 - API throttling
 - API JWT Authentication
+- RPC / gRPCs
+- Microservices
+- Nginx
 
