@@ -1,3 +1,7 @@
+@settings {
+  font-size: 10;
+}
+
 # Sample Project To Utilize Various Modern Frontend and Backend Stack
 -----
 ## The project uses the following:
