@@ -69,6 +69,11 @@
 - Indexing DB
 - Replicating DB
 - Memcache / Redis
+- Minification (html/css/images)
+- Gzip
+- Websocket
+- Streaming response
+- Simple CSS / Less specific CSS rules 
 
 ## SEO Features
 
