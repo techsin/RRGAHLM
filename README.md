@@ -4,6 +4,35 @@
 -----
 ## The project uses the following:
 
+## System Design / Devops
+- Kubernetes
+- Docker
+- Rabbitmq / distributed messaging
+- Concourse
+- CI (Github actions / CircleCI?)
+
+## Backend
+- Admin Privilieges 
+- Postgres
+- Authentication
+- User Registration
+- Forget Password
+- Typescript
+- API throttling
+- API JWT Authentication
+- RPC / gRPCs
+- Microservices
+- Nginx
+- SAML registration / authentication
+- Webpack Cache Busting
+- S3
+- SES
+- Nodejs
+
+## Frontend
+
+- Service Workers / PWA
+- Web APIs (WebRtc, Geolocation, Web Auth, Blob, Typed Arrays, Audio, Touch, Local Storage, Desktop Icon, TTS)
 - React (hooks)
 - React Router
 - React Hydration / Server Side Rendering
@@ -13,44 +42,11 @@
 - Redux thunk
 - Material UI React
 - Graphql / Apollo
-- Nodejs
-- Postgres
-- TDD (Jest)
-- Webpack Manually configured
-- Authentication
-- User Registration
-- Forget Password
-- Admin Privilieges 
 - Babel
 - Eslint
 - Vscode / tsconfig
-
-# TODO
-
-## System Design / Devops
-
-- Kubernetes
-- Docker
-- Rabbitmq / distributed messaging
-- Concourse
-- CI (Github actions / CircleCI?)
-- S3
-- SES
-
-## Backend
-- Typescript
-- API throttling
-- API JWT Authentication
-- RPC / gRPCs
-- Microservices
-- Nginx
-- SAML registration / authentication
-- Webpack Cache Busting
-
-## Frontend
-
-- Service Workers / PWA
-- Web APIs (WebRtc, Geolocation, Web Auth, Blob, Typed Arrays, Audio, Touch, Local Storage, Desktop Icon, TTS)
+- TDD (Jest)
+- Webpack Manually configured
 
 
 ## CSS Features
