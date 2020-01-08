@@ -1,7 +1,4 @@
-@settings {
-  font-size: 10;
-}
-
+<p style='font-size: 10px'>
 # Sample Project To Utilize Various Modern Frontend and Backend Stack
 -----
 ## The project uses the following:
@@ -88,3 +85,4 @@
 - Lazy Fetching
 - Async / Defer
 
+</p>
