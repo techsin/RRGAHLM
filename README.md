@@ -36,6 +36,8 @@
 - Memcache / Redis
 - Concourse
 - CI (Github actions / CircleCI?)
+- S3
+- SES
 
 ## Backend
 - Typescript
@@ -79,3 +81,6 @@
 - Sprite sheet
 - HTTP2
 - Web workers
+- Lazy Fetching
+- Async / Defer
+
