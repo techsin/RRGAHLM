@@ -1,6 +1,6 @@
-#Sample Project To Utilize Varios Modern Frontend Stack
+# Sample Project To Utilize Varios Modern Frontend Stack
 -----
-##The project uses the following:
+## The project uses the following:
 
 - React (hooks)
 - React Router
