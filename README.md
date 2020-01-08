@@ -1,4 +1,5 @@
-<p style='font-size: 4px'> tet </p>
+
+
 # Sample Project To Utilize Various Modern Frontend and Backend Stack
 -----
 ## The project uses the following:
