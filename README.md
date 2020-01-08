@@ -1,33 +1,6 @@
-
-
 # Sample Project To Utilize Various Modern Frontend and Backend Stack
 -----
 ## The project uses the following:
-
-## System Design / Devops
-- Kubernetes
-- Docker
-- Rabbitmq / distributed messaging
-- Concourse
-- CI (Github actions / CircleCI?)
-
-## Backend
-- Admin Privilieges 
-- Postgres
-- Authentication
-- User Registration
-- Forget Password
-- Typescript
-- API throttling
-- API JWT Authentication
-- RPC / gRPCs
-- Microservices
-- Nginx
-- SAML registration / authentication
-- Webpack Cache Busting
-- S3
-- SES
-- Nodejs
 
 ## Frontend
 
@@ -47,6 +20,32 @@
 - Vscode / tsconfig
 - TDD (Jest)
 - Webpack Manually configured
+
+## Backend
+- Admin Privilieges 
+- Postgres
+- Authentication
+- User Registration
+- Forget Password
+- Typescript
+- API throttling
+- API JWT Authentication
+- RPC / gRPCs
+- Microservices
+- Nginx
+- SAML registration / authentication
+- Webpack Cache Busting
+- S3
+- SES
+- Nodejs
+
+## System Design / Devops
+- Kubernetes
+- Docker
+- Rabbitmq / distributed messaging
+- Concourse
+- CI (Github actions / CircleCI?)
+
 
 ## Security Features
 
