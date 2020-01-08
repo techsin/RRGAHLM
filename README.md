@@ -48,19 +48,6 @@
 - TDD (Jest)
 - Webpack Manually configured
 
-
-## CSS Features
-
-- Flexbox
-- Grid
-- Smooth Scroll
-- overscroll-behavior
-
-## JS Features
-
-- Arrow Function
-- Destructuring
-
 ## Security Features
 
 - CSP
@@ -85,3 +72,18 @@
 - Indexing DB
 - Replicating DB
 - Memcache / Redis
+
+
+------
+
+## CSS Features
+
+- Flexbox
+- Grid
+- Smooth Scroll
+- overscroll-behavior
+
+## JS Features
+
+- Arrow Function
+- Destructuring
