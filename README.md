@@ -39,4 +39,5 @@
 - RPC / gRPCs
 - Microservices
 - Nginx
-
+- Service Workers / PWA
+- Web APIs (WebRtc, Geolocation, Web Auth, Blob, Typed Arrays, Audio)
