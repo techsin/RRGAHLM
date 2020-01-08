@@ -1,4 +1,4 @@
-<p style='font-size: 10px'>
+<p style='font-size: 4px'>
 # Sample Project To Utilize Various Modern Frontend and Backend Stack
 -----
 ## The project uses the following:
