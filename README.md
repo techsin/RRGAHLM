@@ -45,7 +45,7 @@
 - CI (Github actions / CircleCI?)
 
 
-## Security Features
+## Security
 
 - CSP
 - CORS
@@ -70,6 +70,13 @@
 - Replicating DB
 - Memcache / Redis
 
+## SEO Features
+
+- Server Side Rendering
+- Fast Page load time < 1s
+- Mobile Optimized
+- Cannonical Tag
+- Meta Tags (...)
 
 ------
 
