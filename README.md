@@ -5,6 +5,7 @@
 - React (hooks)
 - React Router
 - React Hydration / Server Side Rendering
+- React CSS modules
 - Redux
 - Redux thunk
 - Material UI React
@@ -12,3 +13,4 @@
 - Nodejs
 - Postgresql
 - TDD (Jest)
+- Webpack Manually configured
